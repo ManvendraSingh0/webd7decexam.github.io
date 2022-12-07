@@ -95,7 +95,7 @@ function createTicket(ticketColor, ticketTask, ticketID) {
     <div class="ticket-id">#${ticketID}</div>
     <div class="task-area">${ticketTask}</div>
     <div class="ticket-lock">
-        <i class="fa-regular fa-lock"></i>
+        <i class="fa-solid fa-lock"></i>
     </div>
     `;
     mainCont.appendChild(ticketCont);
