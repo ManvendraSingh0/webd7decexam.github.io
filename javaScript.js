@@ -1,6 +1,6 @@
 let addBtn = document.querySelector(".add-btn");
 let removeBtn = document.querySelector(".remove-btn");
-let mainCont = document.querySelector(".main-cont");
+let mainCont = document.querySelector(".tic-no");
 let modalCont = document.querySelector(".modal-cont");
 let textareaCont = document.querySelector(".textarea-cont");
 let allPriorityColor = document.querySelectorAll(".priority-color");
